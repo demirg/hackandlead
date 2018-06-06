@@ -1,6 +1,6 @@
 # Hack 'n' Lead
 
-Raiffeisen participates in the Hack ’n’ Lead 2018 as Gold Sponsor. On our GitHub repository the hacking teams will find all information they need to join the competition to our challenge.
+Raiffeisen participates in the [Hack ’n’ Lead 2018](http://hackandlead.com/) as Gold Sponsor. On our GitHub repository the hacking teams will find all information they need to join the competition to our challenge.
 
 ## The Challenge: Reimaging the bank branch for the digital era.
 
