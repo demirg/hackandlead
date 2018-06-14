@@ -9,7 +9,7 @@ The Raiffeisen group is a collective of Raiffeisen banks organized in the form o
 In fact, most of our customers appreciate the option of a face to face expert advice on their banking needs, and we expect that need to remain the same five years from now. We want our advisers to wow their customers with impeccable service and we want technology to assist our advisor naturally and make her work easy, efficient and also enjoyable. We seek new ways to work, to integrate both digital and physical services and in this way facilitate valuable interaction between our advisors and customers. 
 
 We provide a number of optional API’s to use for the challenge:
-* Access Bank and Customer Data through [Raiffeisen Open Bank API](https://api-syt.raiffeisen.ch/openbank/v1/). Feel free to imagine that you can access any of our data on a secured premise of our branch or via secure mobile workplace infrastructure of our advisor. 
+* Access Bank and Customer Data through [Raiffeisen Open Bank API](https://api-syt.raiffeisen.ch/openbank/v1/swagger-ui.html). Feel free to imagine that you can access any of our data on a secured premise of our branch or via secure mobile workplace infrastructure of our advisor. 
 * Get free [Microsoft Azure](https://azure.microsoft.com/) access to use the impressive Microsoft Cognitive Services. Identify the customer, analyze her/his state of emotion, turn spoken language into text, make sense out of text and understand the customer's intent with Microsoft Azure Cognitive Services. In fact, with that voucher you can access all stunning Azure Services for free.
 
 Give us a sneek peek into your offbeat imagination. We are keen to see a prototype of your mind-blowing vision of bank branch for the digital era.
